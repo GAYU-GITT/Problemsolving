@@ -1,1 +1,2 @@
 # Problemsolving
+Super puzzle
